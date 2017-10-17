@@ -1603,8 +1603,7 @@
 		}
 
 		.wrapper.style1 {
-			background-image: none;
-			background-color: #fff;
+			background-image: url("images/bg2.jpg");
 		}
 
 		.wrapper.style2 {
