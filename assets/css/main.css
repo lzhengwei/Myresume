@@ -1604,6 +1604,8 @@
 
 		.wrapper.style1 {
 			background-image: url("images/bg2.jpg");
+			background-position: center;
+			background-size: cover;
 		}
 
 		.wrapper.style2 {
